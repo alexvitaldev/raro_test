@@ -32,7 +32,7 @@ Procurei adotar as melhores práticas de desenvolvimento para garantir um códig
 Para executar o App localmente, siga estas etapas:
 
 1. **Clone este repositório.**
-   git clone https://github.com/AlexDeveloper007/raro_test.git
+   git clone https://github.com/alexvitaldev/raro_test.git
 
 2. **Entre no diretório do projeto:**
    cd raro_test
